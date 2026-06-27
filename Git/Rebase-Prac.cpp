@@ -1,9 +1,9 @@
 using namespace std;
 #include <iostream>
 
-int val = 400;
+int val = 100;
 
 int main(){
-    cout << value + value << endl;
+    cout << val + val << endl;
     return 0;
 }
