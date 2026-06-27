@@ -1,7 +1,7 @@
 using namespace std;
 #include <iostream>
 
-int val = 200;
+int val = 300;
 
 int main(){
     cout << val + val << endl;
