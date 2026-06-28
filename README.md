@@ -44,18 +44,28 @@ Working Directory (your files)
 
 ### {2} Objective-C { }
 
-- [1] Syntax { }
+- [1] Install Objective-C Windows {✓}
+	- Compiling {✓}
+
+- [2] Syntax { }
 	- Loops { }
 	- Conditionals { }
     - Functions { }
 	- Classes { }
 	- Structs { }
 
-- [2] Memory Management { }
+- [3] Memory Management { }
 	- RAII? { }
 
-- [3] OOP { }
+- [4] OOP { }
 	- ?
+
+- [5] Get Objective-C on Mac { }
+
+- [6] Apple Foundations { }
+	- UIKit / AppKit { }
+	- Apple camera frameworks { }
+	- CoreMedia / AVFoundation { }
 
 ### {3} XCode { }
 
